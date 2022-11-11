@@ -1,1 +1,2 @@
-# webdev
+# Web Development
+Practice projects
